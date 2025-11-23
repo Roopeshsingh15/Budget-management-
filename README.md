@@ -60,7 +60,7 @@ Prerequisites: Ensure you have Python 3 installed.
 
 Clone the Repository:
 
-git clone 
+git clone https://github.com/Roopeshsingh15/Budget-management-.git
 cd expense-management-system
 
 

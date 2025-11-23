@@ -81,4 +81,4 @@ Registration No.: 25BAI11006
 
 Department: BTECH CSE AIML
 
-Institute: VIT Bhopa
+Institute: VIT Bhopal
